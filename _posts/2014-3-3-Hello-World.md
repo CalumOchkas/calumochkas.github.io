@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: 'it''s me, a n00b blogger'
 published: true
 ---
 Well, I'm new to this blogging world, so this will be a quick one.
