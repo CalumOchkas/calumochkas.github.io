@@ -11,6 +11,7 @@ description: All sorts of everything
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/calumochkas/calumochkas.github.io/master/images/avatar.jpg
 
+theme: jekyll-theme-dinky
 #
 # Flags below are optional
 #
